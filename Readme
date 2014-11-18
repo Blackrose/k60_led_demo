@@ -1,0 +1,4 @@
+This demo is for chip MK60N512VL10.It from 0xc170's project https://github.com/0xc0170/kinetis_kxx_gcc.
+It use makefile to manager these source files.
+
+I added file k60n128_ram.ld to running on the RAM under GDB. I use openocd + OpenJTAG(The China version) to debug this demo.
